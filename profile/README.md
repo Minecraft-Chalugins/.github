@@ -11,3 +11,4 @@
 + 猹の修炼
 + 猹の禁用交互
 + CazellaRandom重制版
++ FaithlPoint拓展
